@@ -1,0 +1,9 @@
+Roteiro:
+° Funções
+Introdução
+Parâmetros
+Argumentos
+ - Parâmetros Posicionais
+ - Parâmetros Nomeados
+ - Parâmetros Padrão
+Retorno de Funções
